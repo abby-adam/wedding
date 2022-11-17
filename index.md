@@ -6,9 +6,8 @@ language: en
 Abby and Adam are getting married!
 ----------------------------------
 
-This is a test of the website.
-
 
 ### August 12th, 2023 at Fielder Farm
+[To RSVP, click here!] (https://docs.google.com/forms/d/e/1FAIpQLScy1FSQBhSNbgHMkpsI_pfGXswmbsXdIiXjt6EBW_wDG8RWqw/viewform?usp=sf_link)
 
 ![Roller Disco](disco.jpg "Roller Disco Night in the park")
