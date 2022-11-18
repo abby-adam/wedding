@@ -14,6 +14,6 @@ Abby and Adam are getting married!
 -   [Schedule](Schedule.md)
 -   [How to Get Here | Where to Stay](How to Get Here | Where to Stay.md)
 -   [Gifts](gifts.md)
--   [Frequently Askes Questions](FAQs.md)
+-   [Frequently Asked Questions](FAQs.md)
 
 ![Roller Disco](disco.jpg "Roller Disco Night in the park")
