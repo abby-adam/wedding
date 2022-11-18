@@ -1,3 +1,9 @@
+---
+pagetitle: "Schedule of Events"
+language: en
+---
+
+
 # Schedule of Events
 ![Visiting UW](uw_flower.jpg "at University of Washington")
 
@@ -6,4 +12,3 @@
 - The short ceremony will begin around 3:30PM
 - There will be snacks, drinks, and lawn games until dinner is served around 5:30PM
 - There will be dancing and dessert into the evening
-

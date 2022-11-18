@@ -15,8 +15,6 @@ language: en
 
 ### For More Information:
 -   [Schedule](Schedule.md)
--   [How to Get Here | Where to Stay](How to Get Here | Where to Stay.md)
+-   [How to Get Here | Where to Stay](getting-staying.md)
 -   [Gifts](gifts.md)
 -   [Frequently Asked Questions](FAQs.md)
-
-

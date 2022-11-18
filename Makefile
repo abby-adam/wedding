@@ -4,7 +4,7 @@ S = ./
 
 T = ./
 
-NEEDS = $(T)/index.html $(T)/gifts.html
+NEEDS = $(shell ls ./*.md | sed 's/\.md/\.html/')
 
 PANDOC = sed 's/\.md/\.html/g' | pandoc -s -c "https://abby-adam.github.io/wedding/pandoc.css" --from markdown --to html5
 
