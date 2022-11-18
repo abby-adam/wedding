@@ -11,3 +11,6 @@ Essentially, whatever you want! A couple of things to help guide your choices:
 
 ## Should I Bring My Children?
 To give all of our guests the opportunity to celebrate without having to worry about little eyes and ears, we respectfully request no children under the age of 14.
+
+## I'm looking at the pictures on this page—is the wedding buffalo themed?
+No.
