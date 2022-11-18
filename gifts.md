@@ -14,5 +14,6 @@ Abby and Adam love cooking together. If you have a recipe that is meaningful to 
 
 
 ### Donate to One of the Following Organizations
-
+[Earthjustice](https://act.earthjustice.org/jDWyVKMihkC16JuIF4SJAg2?sourceid=1045138&ms=220805_paid_dfe_google_issue_cntrl&utm_source=google&utm_medium=paid&utm_campaign=newdon&utm_term=branded&utm_content=cntrl&gclid=Cj0KCQiA99ybBhD9ARIsALvZavVeO9Puc7tc2G8PQ9PJRJgXql7RVCQn-j4j5jKNm75wSVPcAQh3364aAsxtEALw_wcB)
+[Kentucky Health Justic Network](https://kentuckyhealthjusticenetwork.networkforgood.com/projects/114665-main-giving-page)
 
