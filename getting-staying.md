@@ -11,17 +11,17 @@ language: en
 
 ## Transport
 
-### Plane
-
-We recommend flying into Burlington (BTV). The airport is about a 40
-minute drive from Fielder Farm.
-
 ### Train
 
 There is an Amtrack station in Waterbury (WAB). The train station is
 about a 40 minute drive from Fielder Farm.  If you are coming in by
 train, please let us know in your RSVP and we will arrange a carpool /
 pickup.
+
+### Plane
+
+If you are flying, we recommend the Burlington (BTV) airport. The
+airport is about a 40 minute drive from Fielder Farm.
 
 ### Automobile
 
