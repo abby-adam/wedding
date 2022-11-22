@@ -5,7 +5,12 @@ language: en
 
 
 # Frequently Asked Questions
-![American Buffalo](american_buffalo.jpeg "Buffalo at _American Buffalo_") ![Fargo Buffalo](fargo_buffalo.jpg "Buffalo in Fargo")
+![American Buffalo](american_buffalo.jpeg "Buffalo at _American
+Buffalo_")
+
+![Fargo Buffalo](fargo_buffalo.jpg "Buffalo in Fargo")
+
+![Philly Buffalo](philly_buffalo.jpg "Buffalo in Philly")
 
 ## What Should I Wear?
 Essentially, whatever you want! A couple of things to help guide your choices:
