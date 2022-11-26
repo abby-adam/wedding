@@ -5,9 +5,6 @@ language: en
 
 
 # Frequently Asked Questions
-![American Buffalo](american_buffalo.jpeg "Buffalo at _American
-Buffalo_")
-
 ![Fargo Buffalo](fargo_buffalo.jpg "Buffalo in Fargo")
 
 ![Philly Buffalo](philly_buffalo.jpg "Buffalo in Philly")
@@ -25,3 +22,6 @@ To give all of our guests the opportunity to celebrate without having to worry a
 
 ## I'm looking at the pictures on this page—is the wedding buffalo themed?
 No.
+
+![American Buffalo](american_buffalo.jpeg "Buffalo at _American
+Buffalo_")
