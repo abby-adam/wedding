@@ -33,7 +33,11 @@ willing to help carpool other guests, please let us know!
 We recommend staying in an AirBnb or VRBO in the area—they are very cute and tend to be less expensive than hotel rooms. [Check some out here!](https://www.vrbo.com/search/keywords:huntington-vermont-united-states-of-america/arrival:2023-08-11/departure:2023-08-13?adultsCount=2&petIncluded=false&filterByTotalPrice=true)
 
 ### Hotel
-We plan on reserving a block of hotel rooms in Burlington—check back here later.
+If you are coming in to Burlington, we recommend:
+[Fairfield Inn Burlington Williston](https://www.marriott.com/en-us/hotels/btvfb-fairfield-inn-burlington-williston/overview/)
+
+If you are coming in to Burlington, we recommend:
+[Best Western Plus Waterbury - Stowe](https://www.bestwesternwaterburystowe.com/)
 
 ### Camping
 There are several campsites in the area, and we are inquiring into whether camping is allowed on the Fielder Farm Grounds—check back here later.
