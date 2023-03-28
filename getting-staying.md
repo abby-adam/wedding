@@ -45,4 +45,9 @@ Stowe](https://www.bestwesternwaterburystowe.com/)
 There are also many other hotels in the area.
 
 ### Camping
-There are several campsites in the area, and we are inquiring into whether camping is allowed on the Fielder Farm Grounds—check back here later.
+There are several campsites in the area.
+
+On the night of the wedding (August 12th), guests are welcome to camp
+at Fielder Farm, but there will not be access to showers, only
+port-a-johns (and a pond). Please let us know if you are planning on
+camping at the farm!
