@@ -26,7 +26,10 @@ airport is about a 40 minute drive from Fielder Farm.
 ### Automobile
 
 If you plan to have a car while you're in town, and you would be
-willing to help carpool other guests, please let us know!
+willing to help carpool other guests, please let us know! Here is a
+[spreadsheet](https://docs.google.com/spreadsheets/d/1Qvn_pJGZvPouaGWd94zjVVn4xYP2gvFk_jXsylHV-b0/edit?usp=sharing)
+where people can post if they are looking for a ride, or if they have
+seats available.
 
 ## Lodging
 ### Airbnb/VRBO
